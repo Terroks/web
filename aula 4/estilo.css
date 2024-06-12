@@ -1,0 +1,87 @@
+ body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            width: 980px;
+            margin: 0 auto;
+        }
+        .topo {
+            width: 980px;
+            height: 100px;
+            background-color: #ff0000; /* Cor de fundo do topo */
+
+        }
+        #containeragora{
+            width: 980px;
+            height: 70px;
+            margin: auto;
+            margin-top: 25px;
+        }
+
+        .nome {
+            float: left;
+            width: 200px;
+            height: 70px;
+            background-color: #7e0000; /* Cor de fundo do nome */
+        }
+        .menu {
+            width: 780px;
+            height: 70px;
+            background-color: #000000; /* Cor de fundo do menu */
+            color: #fff; /* Cor do texto do menu */
+            float: right;
+        }
+        .banner {
+            width: 980px;
+            height: 400px;
+            background-color: #00ff37; /* Cor de fundo do banner */
+            margin-top: 25px;
+        }
+        .anuncio {
+            width: 980px;
+            height: 150px;
+            background-color: #ffd700; /* Cor de fundo do anúncio */
+            margin-top: 25px;
+        }
+        .caixa-maior {
+            width: 980px;
+            height: 500px;
+            background-color: #00bfff; /* Cor de fundo da caixa maior */
+            margin-top: 20px; /* Espaçamento entre as caixas */
+        }
+        .caixa-esquerda {
+            width: 400px;
+            height: 500px;
+            background-color: #ff69b4; /* Cor de fundo das caixas pequenas */
+            float: left; /* Alinhamento lado a lado */
+        }
+        .caixa-direita {
+            width: 400px;
+            height: 500px;
+            background-color: #ff69b4; /* Cor de fundo das caixas pequenas */
+            float: right; /* Alinhamento lado a lado */
+        }
+        
+        #cointeiber12{
+            width: 980px;
+            height: 70px;
+            margin: auto;
+            margin-top: 25px;
+        }
+        
+        .esquerda2 {
+            float: left;
+            width: 200px;
+            height: 70px;
+            background-color: #49025f; /* Cor de fundo do nome */
+        }
+
+        .direita2 {
+            width: 780px;
+            height: 70px;
+            background-color: #00eeff; /* Cor de fundo do menu */
+            color: #fff; /* Cor do texto do menu */
+            float: right;
+        }
